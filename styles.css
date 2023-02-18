@@ -1,9 +1,10 @@
 h1 {
   color: blue;
-  text-align: center;
+  font-family: magneto;
 }
 
 p {
+  color:blue;
   font-family: verdana;
   font-size: 20px;
 }
